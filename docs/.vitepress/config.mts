@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/site-dac/',
   title: "Site DAC",
   description: "SITE TESTE PARA O DAC",
   themeConfig: {
