@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Site DAC"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Diretório Acadêmico - UAM SJC"
+  tagline: Informações sobre o DAC/UAM-SJC
   actions:
     - theme: brand
       text: Markdown Examples
